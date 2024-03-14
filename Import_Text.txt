@@ -1,0 +1,96 @@
+KundenID;Firma;Land;Bundesland;Ort;Plz;Adresse;Name;Vorname;Position;Rufnummer;Fax;Umsatz;Kosten
+A18795;Donau Büroeinrichtungen;Österreich;Oberösterreich;Linz;4020;Schubertplatz 9;Sedladschek;Josefa;Geschäftsführer;0043 732 3453;0043 732 3454;51.560,00 €;69.606,00 €
+A22464;Bürocenter Tirol;Österreich;Tirol;Innsbruck;6020;Innstraße 234;Hofer;Kaspar;Geschäftsführer;0041 512 451123;0041 512 451123;480.536,00 €;451.703,84 €
+A28564;Carynthia Firmenausstattung;Österreich;Kärnten;Klagenfurt;9201;Kaiser-Franz-Str. 1806;Heuriger;Bruno;Einkauf;0043 463 24682;0043 463 24685;199.120,00 €;169.252,00 €
+A40530;Möbelhaus am Donaukanal;Österreich;Wien;Wien;1050;Kanalstraße 45;Vrdlabil;Herbert;Einkauf;0043 141 23142;0043 141 23144;257.817,00 €;299.067,72 €
+A50940;Mozart Möbel;Österreich;Salzburg;Salzburg;5020;Salieristraße 34;Augsburger;Kathi;Geschäftsführer;0043 662 345345;0043 662 345346;33.797,00 €;28.389,48 €
+A75281;Mödlinger Möbelhaus;Österreich;Wien;Wien;1210;Beethovengässchen 65;Rapf;Frantisek;Einkauf;0043 134 782378;0043 1 34 78 23 79;61.960,00 €;87.983,20 €
+A78720;Almuts alternatives Möbelhaus;Österreich;Tirol;Hintertux;6293;Stallmannplatz 1;Linus;Almut;Inhaber;0041 5287 586;0041 5287 587;90.205,00 €;128.993,15 €
+C36206;Wettstein Möbel;Schweiz;Basel-Stadt;Basel;4013;Rheingasse 34;Hodler;Katharina;Inhaber;0041 619 870987;0041 619 870988;232.428,00 €;348.642,00 €
+C43862;Bureau Barchel;Schweiz;Genf;Genf;1245;Rue Othmar Schoeck 45;Valjean;Udo;Geschäftsführer;0041 220 98765;0041 220 98766;199.443,00 €;181.493,13 €
+C56177;Bürohaus Pilatus;Schweiz;Luzern;Beromünster;6215;In der dürren Matte 51;Zurzacher;Verena;Geschäftsführer;0041  930 2626;0041  930 2627;393.648,00 €;566.853,12 €
+C74802;Wohnhaus an der Limmat;Schweiz;Zürich;Zürich;8020;Winkelriedstraße 14;Kratzert;Frank;Geschäftsführer;0041 013 576245;0041 013 576246;59.443,00 €;63.009,58 €
+C80519;Mobili Ticino;Schweiz;Tessin;Lugano;6902;Via del Lago 9;Mayer;Otorino;Geschäftsführer;0041 913 45679;0041 913 45680;449.638,00 €;436.148,86 €
+C97012;Eidgenössisches Einrichtungshaus;Schweiz;Thurgau;Winterthur;8400;Thurgasse 2;Finsterwald;Veronika;Einkauf;0041 424 53489;0041 424 53490;182.506,00 €;160.605,28 €
+C97126;Zähringer-Möbel;Schweiz;Bern;Bern;3011;Mani-Matter-Straße 123;Mosioma;Bernd;Einkauf;0041 305 1145;0041 305 1146;48.194,00 €;40.964,90 €
+G10936;Möbelhaus Borsche;Deutschland;Baden-Württemberg;Stuttgart;70376;Industriestraße 34;Borsche;Leonardo;Inhaber;0711 564532;0711 564533;365.711,00 €;544.909,39 €
+G11597;Breitlingcenter;Deutschland;Mecklenburg-Vorpommern;Rostock;18119;Warnowstraße 110;Fock;Georg;Geschäftsführer;0381 73473 ;0381 73474;42.791,00 €;58.623,67 €
+G12521;Berliner Möbelhaus;Deutschland;Berlin;Berlin;10131;Masha-Bruskina-Straße 41;Tender;Charles;Geschäftsführer;030 4253 ;030 4254;278.208,00 €;300.464,64 €
+G12669;Büroaustattung Balzer;Deutschland;Hessen;Frankfurt am Main;60435;Carmenplatz 23;Müller;Cornelia;Geschäftsführer;0694 659562;0694 659563;125.951,00 €;139.805,61 €
+G13875;Schweriner Möbelhaus;Deutschland;Mecklenburg-Vorpommern;Schwerin;19123;Kaiserstraße 34;Greif;Otto;Geschäftsführer;0385 357254;0385 357255;144.480,00 €;140.145,60 €
+G14119;Möbelfleet;Deutschland;Schleswig-Holstein;Kiel;24123;Graf-Luckner-Platz 16;Laboe;Gorch;Einkauf;0431 727325;0431 727326;83.556,00 €;101.102,76 €
+G14537;Möbel Schulze;Deutschland;Bremen;Bremen;28121;Kormoranstraße 34;Schulze;Simon;Inhaber;0421 325362;0421 325363;67.035,00 €;53.628,00 €
+G18746;Möbelhaus Deutsches Eck;Deutschland;Rheinland-Pfalz;Koblenz;56068;Wilhelmstraße 71;Kaiser;Friedrich;Inhaber;0261 23 5445;0261 23 5446;311.029,00 €;342.131,90 €
+G19389;Badische Büromöbel GmbH;Deutschland;Baden-Württemberg;Freiburg im Breisgau;79106;Eschholzstr. 10;Zähringer;Hermann;Einkauf;0761 32858;0761 32859;148.496,00 €;145.526,08 €
+G21026;Luidolf-Einrichtungen GmbH;Deutschland;Sachsen-Anhalt;Quedlinburg;06484;Stiftsplatz 1;Vogler;Heinrich;Geschäftsführer;03946 8822;03946 8823;39.400,00 €;45.310,00 €
+G24203;Goethe-Möbel;Deutschland;Thüringen;Weimar;99123;Auerbachstraße 36;Faust;Heinrich;Geschäftsführer;0642 038573;0642 038574;147.962,00 €;184.952,50 €
+G26207;Möbelzeche;Deutschland;Nordrhein-Westfalen;Recklinghausen;45665;Immelmannstraße 1;Schalker;Karl;Geschäftsführer;0236 1326598;0236 1326599;484.552,00 €;697.754,88 €
+G26457;Möbelhaus Spatz;Deutschland;Bayern;Regensburg;93123;Domplatz 11;Spatz;Franz X.;Inhaber;0941 234554;0941 234555;72.533,00 €;60.202,39 €
+G27063;Jeetzedesign;Deutschland;Sachsen-Anhalt;Salzwedel;29410;Diesdorfer Straße 21;Frosch;Bettina;Geschäftsführer;03961 38690;03961 38691;1.492,00 €;1.581,52 €
+G27496;Bürocenter Rödelheim;Deutschland;Hessen;Frankfurt am Main;60123;Waggonstraße 78;Mild;Maria ;Geschäftsführer;0695 123158;0695 123159;129.718,00 €;103.774,40 €
+G31341;Otto GmbH;Deutschland;Brandenburg;Havelberg;39539;Burghardstr. 4;Otto;Miroslaw;Geschäftsführer;0393 87456;0393 87457;132.275,00 €;165.343,75 €
+G32183;Trifels Möbel;Deutschland;Rheinland-Pfalz;Annweiler;76855;Romanstraße 6;Hänle;Ljubov;Geschäftsführer;0634 68737;0634 68738;176.361,00 €;232.796,52 €
+G32469;Möbelhaus Heinkel;Deutschland;Mecklenburg-Vorpommern;Rostock;18059;Cannstatter Str. 12;Heinkel;Ernst;Inhaber;0381 456422;0381 456423;374.363,00 €;524.108,20 €
+G32553;Möbelhaus Bad Doberan;Deutschland;Mecklenburg-Vorpommern;Bad Doberan;18209;Klosterstraße 12;Dampf;Molli;Inhaber;0382 035643;0382 035644;70.816,00 €;80.730,24 €
+G33334;Saarmöbel;Deutschland;Saarland;Saarbrücken;66111;Nebenstraße 23;Lafuente;Carlos;Geschäftsführer;0681 238505;0681 238506;454.900,00 €;550.429,00 €
+G34704;Ilmenauer & Co.;Deutschland;Saarland;Saarlouis;66740;Alter Weg 58;Tulpenthal;Marianne;Geschäftsführer;06831 455648;06831 455649;41.926,00 €;41.926,00 €
+G82574;Möbelhaus Niederschlesien;Deutschland;Sachsen;Görlitz;02123;Berliner Straße 34;Älter;Ernst;Einkauf;03581 23465;03581 23466;135.089,00 €;164.808,58 €
+G37221;Möbel Engert;Deutschland;Hessen;Frankfurt am Main;60314;Eckhardtstraße 89;Jacob;Paul;Geschäftsführer;0695 321598;0695 321599;192.556,00 €;186.779,32 €
+G37556;Bürocenter St. Pirmin;Deutschland;Rheinland-Pfalz;Pirmasens;66953;Adelheidstr. 78;Hufer;Peter;Einkauf;06331 3456;06331 3457;309.360,00 €;464.040,00 €
+G38050;Möbelstube Degehardt;Deutschland;Nordrhein-Westfalen;Köln;51069;Hartplatz 44;Stich;Michaela;Geschäftsführer;0221 6125487;0221 6125488;93.188,00 €;105.302,44 €
+G38379;Mannis Möbelscheune;Deutschland;Nordrhein-Westfalen;Aachen;52111;Im Weg 13;Mann;Manfred;Inhaber;0241 25667 ;0241 25668;98.669,00 €;100.642,38 €
+G40900;Büromeister GmbH;Deutschland;Hamburg;Hamburg;20122;Wasserfahrt 4;Meister;Marcia;Geschäftsführer;0409 837429;0409 837430;382.413,00 €;474.192,12 €
+G40921;Büro Mayer;Deutschland;Hessen;Offenbach am Main;63123;Bieberer Straße 34;Napp;Karl;Geschäftsführer;069 883355;069 883356;117.371,00 €;140.845,20 €
+G42725;Möbel-Dreyer;Deutschland;Brandenburg;Potsdam;14482;Windspielplatz 16;Dreyer;Markus;Inhaber;0331 346521;0331 346522;208.725,00 €;302.651,25 €
+G43061;Donau-Inn-Ilz Möbelhaus;Deutschland;Bayern;Passau;94034;Seidelhof 7;Freyung;Maria;Einkauf;0851 642373;0851 642374;393.262,00 €;369.666,28 €
+G45848;LifeStyleTemple;Deutschland;Berlin;Berlin;10011;Kurfüstendamm 456;Abendstern;Christian;Relaxation Consultant;030 34765234;030 34765235;20.063,00 €;20.464,26 €
+G45958;Möbelhaus Morath;Deutschland;Schleswig-Holstein;Lübeck;23123;Grünlichplatz 3;Weisbrod;Sabine;Geschäftsführer;04502 738267;04502 738268;144.253,00 €;131.270,23 €
+G47064;Büroausstattung am Stachus;Deutschland;Bayern;München;90123;Karlsplatz 23;Kasuar;Franz Josef;Geschäftsführer;089 2345676 ;089 2345677;52.149,00 €;69.879,66 €
+G49580;Schreinerei Schröder;Deutschland;Niedersachsen;Hannover;30123;Maschseeaue 52;Köpf;Gert;Einkauf;0511 4341134;0511 4341135;41.434,00 €;46.820,42 €
+G42725;Möbel-Dreyer;Deutschland;Brandenburg;Potsdam;14482;Windspielplatz 16;Dreyer;Markus;Inhaber;0331 346521;0331 346522;208.725,00 €;206.637,75 €
+G43061;Donau-Inn-Ilz Möbelhaus;Deutschland;Bayern;Passau;94034;Seidelhof 7;Freyung;Maria;Einkauf;0851 642373;0851 642374;393.262,00 €;526.971,08 €
+G45848;LifeStyleTemple;Deutschland;Berlin;Berlin;10011;Kurfüstendamm 456;Abendstern;Christian;Relaxation Consultant;030 34765234;030 34765235;20.063,00 €;23.273,08 €
+G45958;Möbelhaus Morath;Deutschland;Schleswig-Holstein;Lübeck;23123;Grünlichplatz 3;Weisbrod;Sabine;Geschäftsführer;04502 738267;04502 738268;144.253,00 €;167.333,48 €
+G47064;Büroausstattung am Stachus;Deutschland;Bayern;München;90123;Karlsplatz 23;Kasuar;Franz Josef;Geschäftsführer;089 2345676 ;089 2345677;52.149,00 €;45.369,63 €
+G49580;Schreinerei Schröder;Deutschland;Niedersachsen;Hannover;30123;Maschseeaue 52;Köpf;Gert;Einkauf;0511 4341134;0511 4341135;41.434,00 €;44.748,72 €
+G32433;Möbelhaus Heinkel;Deutschland;Mecklenburg-Vorpommern;Rostock;18059;Cannstatter Str. 12;Heinkel;Ernst;Inhaber;0381 456422;0381 456423;374.363,00 €;438.004,71 €
+G50636;Alstermöbel;Deutschland;Hamburg;Hamburg;20122;Hartmannsaue 9;Minnig;Karin;Geschäftsführer;040 9733332;040 9733333;117.536,00 €;104.607,04 €
+G53218;Kaiser-Friedrich-Möbel;Deutschland;Hessen;Wiesbaden;65189;Thermenstraße 2;Merkel;Tanja;Geschäftsführer;0611 659525;0611 659526;426.058,00 €;553.875,40 €
+G53965;Schreinerei Radtke;Deutschland;Sachsen;Hoyerswerda;02977;Holzweg 42;Radke;Marcia;Inhaber;03571 4575;03571 4576;413.439,00 €;537.470,70 €
+G38050;Möbelstube Degehardt;Deutschland;Nordrhein-Westfalen;Köln;51069;Hartplatz 44;Stich;Michaela;Geschäftsführer;0221 6125487;0221 6125488;93.188,00 €;104.370,56 €
+G54608;Büroausstattung Ilmtal;Deutschland;Thüringen;Apolda;99510;Hauptstraße 67;Hensel;Manfred;Geschäftsführer;03644 46363;03644 46364;144.705,00 €;195.351,75 €
+G57566;Büroausstattung Murkel;Deutschland;Nordrhein-Westfalen;Paderborn;33123;Konviktstraße 14;Murkel;Sieglinde;Inhaber;05251 37687;05251 37688;125.877,00 €;177.486,57 €
+G58369;Kultsofa KG;Deutschland;Rheinland-Pfalz;Mainz;55116;Augustinergasse 23;Singh;Narendra;Geschäftsführer;06131 345663;06131 345664;10.207,00 €;11.125,63 €
+G60846;Möbel Döbel;Deutschland;Saarland;Dillingen;66763;Saarstraße 42;Döbel;Irmgard;Inhaber;06831 38792;06831 38793;61.160,00 €;85.012,40 €
+G61852;Wachwitzmöbel;Deutschland;Sachsen;Dresden;01326;Corneliengasse 13;Muhammed;Constanze;Geschäftsführer;0351 536777;0351 536778;229.912,00 €;252.903,20 €
+G68015;Jugendmöbel;Deutschland;Hessen;Darmstadt;64283;Grafenstraße 59;Hess;Mathilde;Inhaber;06151 455678;06151 455679;174.190,00 €;198.576,60 €
+G68073;Möbelwiese;Deutschland;Rheinland-Pfalz;Ludwigshafen;67061;Evastraße 23;Paul;Jule;Geschäftsführer;0621 4521;0621 4522;361.121,00 €;353.898,58 €
+G68893;Semper-Möbel;Deutschland;Sachsen;Dresden;01326;Seidemannstraße 72;Klacker;Max;Geschäftsführer;0351 452365;0351 452366;134.288,00 €;165.174,24 €
+G69092;Büromöbelzentrum;Deutschland;Sachsen-Anhalt;Magdeburg;39123;Königin-Edith-Straße 234;Lobo;Enrique;Geschäftsführer;03928 734565;03928 734566;60.324,00 €;70.579,08 €
+G71776;Bürohaus Hauser;Deutschland;Brandenburg;Cottbus;03123;Anselmstraße 11;Hauser;Joachim;Inhaber;0355 23445;0355 23446;48.790,00 €;60.011,70 €
+G76169;Büro-Discount;Deutschland;Thüringen;Erfurt;99123;Grünwiese 345;Müller;Jeremias;Geschäftsführer;0361 858372;0361 858373;53.480,00 €;45.992,80 €
+G79097;Weserbüro OHG;Deutschland;Bremen;Bremen;28113;Rolandsweg 11;Werder;Fritz;Geschäftsführer;0421 2354676;0421 2354677;94.678,00 €;84.263,42 €
+G81176;Büromöbel Karly;Deutschland;Sachsen-Anhalt;Zerbst;39261;Archivstraße 45;Karly;Egon;Inhaber;03923 4531;03923 4532;140.715,00 €;202.629,60 €
+G81545;Bürocenter;Deutschland;Bremen;Bremen;28122;Klarastraße 13;Alitz;Denise;Inhaber;0421 34125344;0421 34125345;32.288,00 €;34.225,28 €
+G82575;Möbelhaus Niederschlesien;Deutschland;Sachsen;Görlitz;02123;Berliner Straße 34;Älter;Ernst;Einkauf;03581 23465;03581 23466;135.089,00 €;124.281,88 €
+G83719;Möbelhaus Pfleiderer;Deutschland;Baden-Württemberg;Ulm;89123;Schwabenplatz 15;Pfleiderer;Max;Inhaber;07305 34688;07305 34689;129.664,00 €;160.783,36 €
+G84129;Stolz KG;Deutschland;Brandenburg;Potsdam;14123;Havelaue 37;König;Marcus;Einkauf;0331 34531;0331 34532;144.157,00 €;178.754,68 €
+G32435;Möbelhaus Heinkel;Deutschland;Mecklenburg-Vorpommern;Rostock;18059;Cannstatter Str. 12;Heinkel;Ernst;Inhaber;0381 456422;0381 456423;374.363,00 €;479.184,64 €
+G84733;Emscher-Bürocenter;Deutschland;Nordrhein-Westfalen;Dortmund;44139;Rasenplatz 45;Becker;Anna;Einkauf;0231 567865 ;0231 567866;248.087,00 €;334.917,45 €
+G85108;Frisia Büro;Deutschland;Niedersachsen;Aurich;26124;Dorotheenweg 78;Esner;Peter;Einkauf;04941 3456;04941 3455;66.096,00 €;56.181,60 €
+G86382;Möbelcenter Wilhelmshöhe;Deutschland;Hessen;Kassel;34123;Sedanstraße 51;Weigel;Mareile;Geschäftsführer;0561 626272;0561 626273;150.304,00 €;213.431,68 €
+G90974;Fugger Bürocenter;Deutschland;Bayern;Augsburg;86150;Alte Gasse 34;Mosner;Jakob;Geschäftsführer;0821 344326;0821 344327;4.852,00 €;6.016,48 €
+G91219;Wannsee-Büro GmbH;Deutschland;Berlin;Berlin;10122;Wackerstr. 19;Liechtenstein;Rosa ;Inhaber;030 34253 ;030 34254;283.149,00 €;249.171,12 €
+G94909;Biomöbel Gera;Deutschland;Thüringen;Gera;07546;Halbstraße 62;Marquardt;Ilse;Geschäftsführer;0365 35623;0365 35624;263.447,00 €;368.825,80 €
+G97077;Neckar-Büro OHG;Deutschland;Baden-Württemberg;Tübingen;72076;Konviktstraße 55;Butz;Friederike;Einkauf;07071 7637;07071 7638;150.514,00 €;135.462,60 €
+G99787;KdO;Deutschland;Berlin;Berlin;10123;Marthastraße 34;Priebe;Helene;Geschäftsführer;030 43554676;030 43554677;109.917,00 €;139.594,59 €
+G99918;Möbelhansa;Deutschland;Hamburg;Hamburg;20123;Helgoländer Allee 53;Gödeke;Michael;Geschäftsführer;040 5437345;040 5437346;111.880,00 €;154.394,40 €
+A28564;Carynthia Firmenausstattung;Österreich;Kärnten;Klagenfurt;9201;Kaiser-Franz-Str. 1806;Heuriger;Bruno;Einkauf;0043 463 24682;0043 463 24685;199.120,00 €;179.208,00 €
+A40530;Möbelhaus am Donaukanal;Österreich;Wien;Wien;1050;Kanalstraße 45;Vrdlabil;Herbert;Einkauf;0043 141 23142;0043 141 23144;257.817,00 €;340.318,44 €
+A50940;Mozart Möbel;Österreich;Salzburg;Salzburg;5020;Salieristraße 34;Augsburger;Kathi;Geschäftsführer;0043 662 345345;0043 662 345346;33.797,00 €;43.260,16 €
+A75281;Mödlinger Möbelhaus;Österreich;Wien;Wien;1210;Beethovengässchen 65;Rapf;Frantisek;Einkauf;0043 134 782378;0043 1 34 78 23 79;61.960,00 €;53.285,60 €
+A78720;Almuts alternatives Möbelhaus;Österreich;Tirol;Hintertux;6293;Stallmannplatz 1;Linus;Almut;Inhaber;0041 5287 586;0041 5287 587;90.205,00 €;127.189,05 €
+C36206;Wettstein Möbel;Schweiz;Basel-Stadt;Basel;4013;Rheingasse 34;Hodler;Katharina;Inhaber;0041 619 870987;0041 619 870988;232.428,00 €;267.292,20 €
+C43862;Bureau Barchel;Schweiz;Genf;Genf;1245;Rue Othmar Schoeck 45;Valjean;Udo;Geschäftsführer;0041 220 98765;0041 220 98766;199.443,00 €;201.437,43 €
+C56177;Bürohaus Pilatus;Schweiz;Luzern;Beromünster;6215;In der dürren Matte 51;Zurzacher;Verena;Geschäftsführer;0041  930 2626;0041  930 2627;393.648,00 €;318.854,88 €
+C74802;Wohnhaus an der Limmat;Schweiz;Zürich;Zürich;8020;Winkelriedstraße 14;Kratzert;Frank;Geschäftsführer;0041 013 576245;0041 013 576246;59.443,00 €;49.932,12 €
