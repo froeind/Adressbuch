@@ -6,7 +6,7 @@ import project_csv
 def command_newadd_contact(type, lstAddresses, intListPointer, newedit_window,*strentries):
     # in diesem Tupel muss ich, warum auch immer, das erste Element nehmen, das ist die Liste
     strentries = strentries[0]
-    print("command_newadd_contact", intListPointer[0])
+    #print("command_newadd_contact", intListPointer[0])
     if type == "e":
         if intListPointer[0] == -1: return
         # vorbelegen
@@ -206,7 +206,7 @@ def command_listbox_select(event, listbox, intListPointer):
         intListPointer[0] = selected_indices[0]
     except:
         intListPointer[0] = -1
-    print("command_listbox_select", intListPointer[0])
+    #print("command_listbox_select", intListPointer[0])
 
 
 

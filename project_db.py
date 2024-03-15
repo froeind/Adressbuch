@@ -1,7 +1,7 @@
 import sqlite3
 
 # Name der SQLite-Datenbank
-db_name = "./Projekt/telefonbuch.db"
+db_name = "telefonbuch.db"
 
 def connect_to_database():
     """Verbindung zur SQLite-Datenbank herstellen."""

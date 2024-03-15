@@ -25,7 +25,8 @@ root = tk.Tk()
 # laut Bard=Gemini soll das das "Kein-Button-gedrückt"-Problem lösen - JA
 root.protocol("WM_DELETE_WINDOW", on_closing)
 # laut Bard=Gemini soll das das "Kein-Button-gedrückt"-Problem lösen - JA
-tkBreite = 780; tkHoehe = 800; tkX = 2800; tkY = 100
+#tkBreite = 780; tkHoehe = 800; tkX = 2800; tkY = 100
+tkBreite = 780; tkHoehe = 800; tkX = 1000; tkY = 100
 root.geometry("%dx%d+%d+%d"%(tkBreite, tkHoehe, tkX, tkY))
 #root.minsize(750, 800)
 #root.maxsize(1000, 800)
@@ -78,7 +79,7 @@ import project_func
 
 intRow = 0
 #Überschrift Datei öffnen
-datei_label = tk.Label(root, text="Daten hinzufügen", bg=gray23, fg=gray76, font=fontH12b)
+datei_label = tk.Label(root, text="Massendaten hinzufügen", bg=gray23, fg=gray76, font=fontH12b)
 datei_label.grid(row=intRow, column=0, columnspan=4, padx=10, pady=5, sticky="ew")
 
 intRow += 1
